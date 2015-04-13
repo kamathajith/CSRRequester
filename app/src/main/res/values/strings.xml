@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CSRRequester</string>
+
+    <string name="title_section1">Try it</string>
+    <string name="title_section2">Read about it</string>
+    <string name="title_section3">Watch it</string>
+
+    <string name="wikipedia_page_csr">http://en.wikipedia.org/wiki/Certificate_signing_request</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="youtube_video_crypto_talk">https://www.youtube.com/watch?v=IzVCrSrZIX8</string>
+    <string name="generate_csr">Generate CSR</string>
+    <string name="press_button_to_start_process">Press the button to start the CSR Generation</string>
+    <string name="csr_generation_in_process">CSR Generation in process</string>
+    <string name="share_csr">Share the CSR via any of the presented methods</string>
+    <string name="send_csr_to_authority">Share CSR using...</string>
+    <string name="content_type_text_plain">text/plain</string>
+    <string name="csr_settings">CSR Generator</string>
+
+    <string name="title_edittext_preference1">CSR Generator</string>
+    <string name="summary_edittext_preference1">Test project to demonstrate Certificate Signing Request creation using a ECDSA algorithm on a p256 curve</string>
+    <string name="dialog_title_edittext_preference1">Test project to demonstrate Certificate Signing Request creation using a ECDSA algorithm on a p256 curve</string>
+
+    <string name="title_edittext_preference2">Author</string>
+    <string name="summary_edittext_preference2">Ajith Kamath</string>
+    <string name="dialog_title_edittext_preference2">Ajith Kamath</string>
+</resources>
